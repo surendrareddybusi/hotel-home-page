@@ -1,0 +1,413 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.web-page-bg-color {
+    background-color: #2b2b2b;
+    background-size: cover;
+    height: 3750px;
+}
+
+.navbar {
+    color: #222222;
+    font-size: 16px;
+    font-family: Open Sans;
+    font-weight: 400;
+    line-height: 24px;
+    word-wrap: break-word;
+}
+
+.login-button {
+    width: 100px;
+    height: 42px;
+    background-color: #FF7665;
+    border-radius: 35px;
+    color: white;
+    font-size: 14px;
+    font-family: Open Sans;
+    font-weight: 400;
+    line-height: 20px;
+    word-wrap: break-word;
+    margin-left: 100px;
+}
+
+.header-1 {
+    background-color: #eeedf0;
+    border-radius: 16px;
+}
+
+.perfect-place {
+    color: black;
+    font-size: 64px;
+    font-family: Poppins;
+    font-weight: 700;
+    line-height: 80px;
+    word-wrap: break-word
+}
+
+.description {
+    color: #555555;
+    font-size: 20px;
+    font-family: Open Sans;
+    font-weight: 700;
+    line-height: 32px;
+    word-wrap: break-word
+}
+
+.watch-video {
+    color: #222222;
+    font-size: 28px;
+    font-family: Open Sans;
+    font-weight: 600;
+    line-height: 30px;
+    word-wrap: break-word
+}
+
+.hotel-img-1 {
+    width: 571px;
+    height: 700px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    background-size: cover;
+}
+
+.text-block {
+    position: absolute;
+    bottom: 40px;
+    width: 1000px;
+    left: 40px;
+    height: 120px;
+    background-color: white;
+    border-radius: 280px;
+
+}
+
+.search-icons {
+    width: 80px;
+    height: 65px;
+    padding: 15px;
+}
+
+.search-tools {
+    color: #222222;
+    font-size: 18px;
+    font-family: Open Sans;
+    font-weight: 400;
+    line-height: 24px;
+    word-wrap: break-word
+}
+
+.abuja {
+    color: #555555;
+    font-size: 12px;
+    font-family: Open Sans;
+    font-weight: 400;
+    line-height: 16px;
+    word-wrap: break-word
+}
+
+.search-icon {
+    height: 80px;
+    padding-top: 40px;
+    padding-left: 40px;
+}
+
+.search {
+    color: white;
+    font-size: 26px;
+    font-family: Open Sans;
+    font-weight: 400;
+    line-height: 24px;
+    padding-top: 45px;
+    padding-left: 15px;
+}
+
+.popular-rooms {
+    color: white;
+    font-size: 40px;
+    font-family: Open Sans;
+    font-weight: 600;
+    line-height: 60px;
+}
+
+.room-card {
+    background-color: #FAFAFA;
+    border-radius: 16px;
+    padding: 0px;
+    height: 100%;
+    width: 100%;
+}
+
+.popular-room-imgs {
+    height: 100%;
+    width: 100%;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+}
+
+.popular-room-names {
+    color: #222222;
+    font-size: 24px;
+    font-family: Open Sans;
+    font-weight: 600;
+    line-height: 30px;
+    padding-top: 30px;
+    padding-left: 10px;
+}
+
+.room-price {
+    color: #222222;
+    font-size: 16px;
+    font-family: Open Sans;
+    font-weight: 400;
+    line-height: 18px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+}
+
+.star {
+    height: 27px;
+    width: 25px;
+    padding-top: 10px;
+}
+
+.rating {
+    color: #222222;
+    font-size: 16px;
+    font-family: Open Sans;
+    font-weight: 400;
+    line-height: 18px;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+
+.facilities {
+    color: white;
+    font-size: 40px;
+    font-family: Open Sans;
+    font-weight: 600;
+    line-height: 50px;
+}
+
+.para {
+    width: 100%;
+    color: white;
+    font-size: 16px;
+    font-family: Open Sans;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+.facilities-card {
+    background-color: white;
+    border-radius: 6px;
+    height: 180px;
+    width: 180px;
+}
+
+.facilities-icon {
+    padding-left: 60px;
+    padding-top: 60px;
+}
+
+.facilities-name {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.swimming-pool-container {
+    background-color: #F4FBF8;
+    border-radius: 8px;
+    height: 450px;
+    width: 100%;
+}
+
+.swimming-pool-img {
+    height: 450px;
+    width: 50%;
+}
+
+.history {
+    color: black;
+    font-size: 40px;
+    font-family: Open Sans;
+    font-weight: 600;
+    line-height: 50px;
+}
+
+.history-para {
+    color: #555555;
+    font-size: 18px;
+    font-family: Open Sans;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+.question {
+    color: white;
+    font-size: 48px;
+    font-family: Open Sans;
+    font-weight: 600;
+    text-transform: capitalize;
+    line-height: 62.40px;
+}
+
+.question-1 {
+    color: #FF7665;
+    font-size: 48px;
+    font-family: Open Sans;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+
+.questions-container {
+    background-color: white;
+    height: 50%;
+    width: 100%;
+    border-radius: 6px;
+}
+
+.questions-container-1 {
+    background-color: white;
+    height: 25%;
+    width: 100%;
+    border-radius: 6px;
+}
+
+.bus-station {
+    color: #0C1623;
+    font-size: 22px;
+    font-family: Open Sans;
+    font-weight: 600;
+    text-transform: capitalize;
+    line-height: 30.60px;
+}
+
+.address {
+    color: rgba(29, 38, 58, 0.90);
+    font-size: 20px;
+    font-family: Open Sans;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.map {
+    height: 600px;
+    width: 100%;
+    margin-top: 300px;
+    background-image: url("https://s3-alpha-sig.figma.com/img/ea38/e476/01b01c2d6d8eb85c6087fccad0ae580b?Expires=1697414400&Signature=pIxX-t45UNVGbjtnvBeVHC7SScZJUFfZ1klm9zPCUeGCq4e5OJ5RawiwwIdXBYk6973HTGCTTpFkfCUGPCGf~WHmX-SFxHYX8pZ1IsnH~Z8b8B2oSUwj9a3K8qKiRKak0X8SYejzAhD8r4jTVKNehA7YwEeiV4uLDVfZHdyiCGv5gSGkVeHwkKMTPE~Yz2fsf8fhvrCIY~YYLjA4Y~ZdzQvzOQc6xUhU07y7ghKwTfeqmiFnwlzV07cxhwGpoQh4-WvvxJp1lg4tDibDq4Hubs7Xn8kJpsijDwLveyyCTrjFZC~qX~EJEaxwYtnoUJ-f1DGR~c4WkD-Qj7-uAl53Lw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4");
+    padding-top: 350px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+}
+
+.visit-container {
+    background-color: white;
+    border-radius: 8px;
+    height: 80%;
+}
+
+.visit {
+    color: #222222;
+    font-size: 36px;
+    font-family: Open Sans;
+    font-weight: 600;
+    line-height: 40px;
+}
+
+.visit-para {
+    color: #555555;
+    font-size: 20px;
+    font-family: Open Sans;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+.email-submission {
+    background-color: #FAFAFA;
+    border-radius: 50px;
+    width: 50%;
+    height: 40%;
+    margin-top: 80px;
+    margin-right: 15px;
+
+}
+
+.enter-email {
+    color: #555555;
+    font-size: 14px;
+    font-family: Open Sans;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+.contact {
+    color: white;
+    font-size: 16px;
+    font-family: Open Sans;
+    font-weight: 600;
+    line-height: 24px;
+    text-align: center;
+}
+
+.container7 {
+    width: 100%;
+    height: 343px;
+    flex-shrink: 0;
+    fill: rgba(255, 118, 101, 0.80);
+    margin: 0px;
+    background-color: #FF7665;
+
+}
+
+.socialmedia {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding-top: 120px;
+}
+
+.media {
+    margin-right: 40px;
+
+}
+
+.footer {
+    padding-left: 200px;
+    display: flex;
+    flex-direction: row;
+    margin-right: 30px;
+}
+
+.home {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 200px;
+    height: 208px;
+    flex-shrink: 0;
+    color: #ffffff;
+
+    font-size: 25px;
+
+
+}
+
+.links {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-top: 20px;
+}
+
+.socialmediaparagraph {
+    color: #FFF;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
